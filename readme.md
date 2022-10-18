@@ -14,7 +14,7 @@ git push
 
 git add 
 
-git communt
+git commut
 
 git status
 
