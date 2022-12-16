@@ -1,0 +1,5 @@
+pour l'animation d'excel
+
+=index(plage;index)
+
+=RechercheV(valeur;plage;colonne
